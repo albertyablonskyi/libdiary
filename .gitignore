@@ -1,0 +1,12 @@
+subprojects/*/
+
+.vscode/
+
+build/
+
+__pycache__/
+
+*.db
+
+*.diary
+
